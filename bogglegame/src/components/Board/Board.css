@@ -1,0 +1,16 @@
+.orange-area {
+    background: #FFF3E0;
+    padding: 15px 15px 5px 15px;
+    width: 250px;
+    margin: 0px;
+    height: 260px;
+}
+
+.row {
+    width: 250px;
+    display: block;
+}
+
+.row button:last-child {
+    margin-right: 0;
+}
