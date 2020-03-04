@@ -7,4 +7,4 @@ Here ruby version used is
 Rails version -
 
 To run this application type rails s. This will run the the application on localhost:3001 port
-To runt tests run bundle exec test file name. The tests are written inside rpsec folder.
+To runt tests run bundle exec test file name. The tests are written inside spec folder.
